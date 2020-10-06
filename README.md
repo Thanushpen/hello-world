@@ -6,10 +6,10 @@
 <h1> Hello World <h1>
   <style>
     
-   body  }
+   body {  
    font-style:italic;
    background-color:red;
-   { 
+    }
    
   </style>
   
